@@ -1,6 +1,6 @@
 # Juho-Pekka Mattila - Esimerkkejä koodiprojekteista.
 
-Moi! Olen keräillyt tähän muutamia esimerkkejä koulutöistä ja pienistä omista projekteista vuosien varrelta. Jokaisen projektin kansiosta löytyy pieni selitys toteutuksesta.
+Moi! Olen keräillyt tähän parhaita paloja koulutöistä ja pienistä omista projekteista vuosien varrelta. Jokaisen projektin kansiosta löytyy pieni selitys toteutuksesta.
 
 # Sisällysluettelo
 
