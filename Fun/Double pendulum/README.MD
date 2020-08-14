@@ -5,3 +5,5 @@ Tämä skripti laskee noiden heilurien liikeradat ja piirtää niiden perusteell
 Kaavat heilureiden liikkeen laskemiseen löytyvät täältä: https://www.myphysicslab.com/pendulum/double-pendulum-en.html
 
 Ohessa olevassa kuvassa näkyy esimerkki skriptin toiminnasta.
+
+<img width="600" alt="lissajous example" src="https://github.com/Jibulii/Projects/blob/master/Fun/Double%20pendulum/double_pendulum_example.png">
