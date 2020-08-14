@@ -4,4 +4,4 @@ Tämä ohjelma on C++:lla ja QT:lla toteutettu matopeli. Mukana myös zip-tiedos
 
 Ohessa olevasta kuvasta näkyy esimerkkikuva käyttöliittymästä.
 
-<img width="600" alt="lissajous example" src="https://github.com/Jibulii/Projects/blob/master/Fun/Snake/Snake_example.png">
+<img width="300" alt="lissajous example" src="https://github.com/Jibulii/Projects/blob/master/Fun/Snake/Snake_example.png">

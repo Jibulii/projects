@@ -6,4 +6,4 @@ Kaavat heilureiden liikkeen laskemiseen löytyvät täältä: https://www.myphys
 
 Ohessa olevassa kuvassa näkyy esimerkki skriptin toiminnasta.
 
-<img width="600" alt="lissajous example" src="https://github.com/Jibulii/Projects/blob/master/Fun/Double%20pendulum/double_pendulum_example.png">
+<img width="500" alt="lissajous example" src="https://github.com/Jibulii/Projects/blob/master/Fun/Double%20pendulum/double_pendulum_example.png">
