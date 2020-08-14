@@ -1,3 +1,3 @@
 # Change Distiller
 
-Tämä Java-projekti toteutettiin ohjelmistotuotannon menetelmät -kurssilla. Projektissa luotiin työkalu, joka tutkii kahden git-commitin erot ja listaa ne json-tiedostoon. Tarkempi kuvaus ohjelman toiminnasta löytyy src-kansion README-tiedostosta, joka oli osa kurssin palautusta.
+Tämä Java-projekti toteutettiin ohjelmistotuotannon menetelmät -kurssilla. Projektissa luotiin työkalu, joka tutkii kahden git-commitin erot ja listaa ne json-tiedostoon. Tarkempi kuvaus ohjelman toiminnasta löytyy src-kansion README-tiedostosta, joka oli osa kurssin palautusta. src-kansioon on kerätty tiedostot, jotka minä toteutin projektiin. Tehtävässä luotiin ohjelmalle myös docker-kontti, jota pystyi käyttämään selaimella REST-apin kautta.
